@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Komissarts
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... You don't
+Heya it's me
+i do some coding for game dev mostly
+that's about it
+i'll let you know if something else pops up i guess
 
 <!---
 Komissarts/Komissarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
